@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'College Manager for managing students and grades.',
           imageUrl:
-            'https://drive.google.com/file/d/1SCk9Gh3YrVHmx0b260RDon4q1gzYb98U/view',
+            'https://i.ibb.co/ymF8qn4m/banner-square.png',
           link: 'https://nightangel5.gumroad.com/l/collegemanager',
         },
       ],
@@ -49,11 +49,11 @@ const CONFIG = {
     x: 'crimsonnls',
     mastodon: '',
     researchGate: '',
-    facebook: '',
+    facebook: '19zuKF3efu',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'MohamedGonemCNL', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -63,7 +63,7 @@ const CONFIG = {
     discord: '',
     telegram: '',
     website: '',
-    phone: '',
+    phone: '+201210068442',
     email: 'crimson_cnl@proton.me',
   },
   resume: {
@@ -92,25 +92,25 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Foundational C# Certification',
+      body: 'A verified certification covering core C# programming concepts, including variables, data types, control flow, collections, OOP, error handling, and basic .NET development. Demonstrates strong foundational skills for software development and backend programming within the Microsoft ecosystem.',
+      year: 'November 2025',
+      link: 'https://www.freecodecamp.org/certification/fcc-53810a4a-4cd4-41d1-9e18-1f3d18d58e08/foundational-c-sharp-with-microsoft',
+    },
+    {
+      name: 'Introduction to Cybersecurity – Cisco Networking Academy',
+      body: 'A recognized certification covering the fundamentals of cybersecurity, including threat types, attack methods, security principles, encryption basics, and network protection. Suitable for beginners in IT, networking, and security roles, and a solid foundation for advanced cybersecurity paths.',
+      year: 'November 2025',
+      link: 'https://www.credly.com/badges/6f7af68b-879a-43ad-8792-703c50fc6852/public_url',
     },
   ],
   educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+ //   {
+//   institution: 'Institution Name',
+   //   degree: 'Degree',
+  //    from: '2024',
+   //   to: 'Present',
+    //},
   ],
   publications: [
   ],
