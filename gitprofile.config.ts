@@ -141,7 +141,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-//      'light',
+      'light',
       'dark',
  //     'cupcake',
   //    'bumblebee',
@@ -161,10 +161,10 @@ const CONFIG = {
  //     'wireframe',
       'black',
       'luxury',
-//      'dracula',
+      'dracula',
  //     'cmyk',
   //    'autumn',
-//      'business',
+      'business',
 //      'acid',
 //      'lemonade',
       'night',
